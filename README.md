@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate [with companies or start-ups or emerging projects related to bioinformatics and computational biology, which I can share the aim of improving people's lives](https://github.com/ScarletteBel/Bioinformatics-portfolio)
 
-- 🤝 I’m looking for help with **sharing my knowledge and learn from others**
+- 🤝 I’m looking for help with **getting into the bioinformatics, computational biology, and biotechnological research fields **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScarletteBel](https://github.com/ScarletteBel)
 
